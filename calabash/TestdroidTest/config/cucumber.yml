@@ -1,0 +1,12 @@
+# config/cucumber.yml
+##YAML Template
+---
+default: >
+  --tags @smoke
+
+
+nofail: --tags @UItest --tags ~@fail
+crash: --tags @crash
+smoke: --tags @smoke
+uitest: --tags @UItest
+

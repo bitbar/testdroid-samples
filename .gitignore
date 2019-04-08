@@ -1,0 +1,10 @@
+*.iml
+*.idea
+*.pyc
+*~
+*.swp
+venv
+.DS_Store
+.classpath
+.project
+.settings/

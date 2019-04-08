@@ -1,0 +1,17 @@
+#Eclipse files
+.project
+.classpath
+.settings
+
+#Intllij file
+*.iml
+.idea/
+
+#Java and Maven
+*.class
+*.jar
+target
+lib
+
+screenshots/
+server_side_test_package.zip
