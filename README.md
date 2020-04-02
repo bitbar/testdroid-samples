@@ -1,5 +1,8 @@
 # Bitbar Samples
 
+# Archiving
+This repository has been archived. Bitbar samples has been moved to this repository [https://github.com/bitbar/test-samples](https://github.com/bitbar/test-samples)
+
 Repository for Bitbar sample applications and test scripts.
 
 * *appium/sample-scripts/* - directory contains examples to interact with your
